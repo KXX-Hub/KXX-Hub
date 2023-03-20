@@ -1,28 +1,32 @@
 <h1 align="center">KXX-Hub</h1>
-<h3 align="center" >|Python X Blockchain|</h3>
 <h3 align="center" >|_____bigkxx.eth____|</h3>
 
----
+--- 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=dark">
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=react">
 
-  
+#### About Me
+- 💻 Python X Blockchain 
+- 💬 Contact me via Discord **KXX#1992**
+- 🏫 Fu Jen University 
+
+
+#### Socail Media
+<a href="https://twitter.com/hongzhikai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KXX-Twitter" height="15" width="20" /></a>
+<a href="https://www.instagram.com/k._______.______/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KXX-IG" height="15" width="20" /></a>
+
 <a href="https://github.com/KXX-Hub/IT_ironman">
-  <img align="center" width = "400" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=dark" />
+  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=dark" />
 </a>
-  
-  
+
 <a href="https://github.com/KXX-Hub/Wallet_Tracker">
-  <img align="center" width = "400" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Wallet_Tracker&theme=dark" />
+  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Wallet_Tracker&theme=dark" />
 </a>
 
-  
 <a href="https://github.com/KXX-Hub/Line_Gas_Notify">
-  <img align="center" width = "400" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=dark" />
+  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=dark" />
 </a>
 
-<a href="https://github.com/KXX-Hub/">
-  <img align="left" width = "467" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KXX-Hub&layout=compact&theme=dark" />
+<a href="https://github.com/KXX-Hub/IT_ironman">
+  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=THR_bot&theme=dark" />
 </a>
