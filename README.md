@@ -27,6 +27,6 @@
   <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=dark" />
 </a>
 
-<a href="https://github.com/KXX-Hub/IT_ironman">
+<a href="https://github.com/KXX-Hub/THR_bot">
   <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=THR_bot&theme=dark" />
 </a>
