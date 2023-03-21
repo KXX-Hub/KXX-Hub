@@ -1,4 +1,13 @@
 <h1 align="center">KXX-Hub</h1>
+<p align="center">
+
+<a href= "https://github.com/KXX-Hub" alt="Total Stars">
+  <img src = "https://img.shields.io/github/stars/KXX-Hub?style=social" target="blank" />
+</a>
+<a href="https://twitter.com/hongzhikai1" alt="Twitter">
+  <img src="https://img.shields.io/twitter/follow/hongzhikai1?label=Follow me &style=social" />
+</a>
+</p>
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=react">
