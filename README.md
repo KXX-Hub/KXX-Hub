@@ -6,7 +6,7 @@
 |:------:|:------:|
 |<img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226513672-7cf371f3-0419-48aa-b57d-c562788c7f16.png">|Fu Jen University      |
 |  <img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226626493-b2eaf22a-12d9-44f3-a839-38320ea7cc2d.png">|bigkxx.eth      |
-|<img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226625260-ae075d55-c4f1-40d7-8923-0c25698d4734.gif">|[Follow me](https://www.instagram.com/k._______.______/)|
+|<img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226625260-ae075d55-c4f1-40d7-8923-0c25698d4734.gif">|[Follow me](https://www.instagram.com/0x_kxx/)|
 <p align="left">
 
 <a href= "https://github.com/KXX-Hub" alt="Total Stars">
