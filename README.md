@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=react">
 
 
-|<img algin = "left" width = "40" src ="https://user-images.githubusercontent.com/72089746/226511869-a14393d2-e4b2-4dc4-95d4-fb44ec3789d5.gif"> |KXX#1992|
+|<img algin = "left" width = "40" src ="https://user-images.githubusercontent.com/72089746/226511869-a14393d2-e4b2-4dc4-95d4-fb44ec3789d5.gif"> |0x_kxx|
 |:------:|:------:|
 |  <img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226626493-b2eaf22a-12d9-44f3-a839-38320ea7cc2d.png">|bigkxx.eth      |
 |<img algin = "left" width = "30" src ="https://user-images.githubusercontent.com/72089746/226625260-ae075d55-c4f1-40d7-8923-0c25698d4734.gif">|[Follow me](https://www.instagram.com/0x_kxx/)|
