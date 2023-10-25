@@ -36,5 +36,5 @@
 </a>
 
 <a href="https://github.com/KXX-Hub/THR_bot">
-  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=THR_bot&theme=discord_old_blurple" />
+  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Auto_API_Check_Bot&theme=discord_old_blurple" />
 </a>
