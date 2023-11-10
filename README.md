@@ -35,6 +35,6 @@
   <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=discord_old_blurple" />
 </a>
 
-<a href="https://github.com/KXX-Hub/THR_bot">
+<a href="https://github.com/KXX-Hub/Auto_API_Check_Bot">
   <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Auto_API_Check_Bot&theme=discord_old_blurple" />
 </a>
