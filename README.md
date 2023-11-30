@@ -66,6 +66,4 @@
   </a>
 </div>
 
-### Recent Project 🔥
-
 
