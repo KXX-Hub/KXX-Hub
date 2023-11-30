@@ -12,13 +12,13 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
--   👨‍💻 I'm Kai👋, a college student, a senior of Medical Information in the Taiwan. <br><br><br>
+-   👨‍💻 College student, Major in Medical Information and minor in Cybersecurity. <br><br><br>
 
--   🌳 I’m currently learning Smart Contract and web development! <br><br><br>
+-   🌳 Currently learning Smart Contract and web development! <br><br><br>
 
--   🐾 I’m looking to network and make friends here! <br><br><br>
+-   🐾 Now Working on two conference paper.<br><br><br>
 
--   ☕ Interest: Music, Crypto, and Coding. <br><br><br>
+-   ☕ Interest: Music, Crypto, and cool new stuff. <br><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
