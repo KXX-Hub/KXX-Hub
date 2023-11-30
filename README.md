@@ -6,17 +6,17 @@
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img algin ="center" src="https://user-images.githubusercontent.com/72089746/226623274-2f206dee-d47b-4711-8f67-671ee5c690b5.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
 -   👨‍💻 I'm Kai👋, a college student, a senior of Medical Information in the Taiwan. <br><br><br>
 
--   🌳 I’m currently learning Cybersecurity and ! <br><br><br>
+-   🌳 I’m currently learning Smart Contract and web development! <br><br><br>
 
 -   🐾 I’m looking to network and make friends here! <br><br><br>
-
--   🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
 
 -   ☕ Interest: Music, Crypto, and Coding. <br><br><br>
 
