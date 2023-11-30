@@ -44,20 +44,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Recent Project 🔥
-
+<div align="center">
+  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
 <a href="https://github.com/KXX-Hub/IT_ironman">
-  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=discord_old_blurple" />
+  <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=discord_old_blurple" />
 </a>
 
 <a href="https://github.com/KXX-Hub/Wallet_Tracker">
-  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=discord_old_blurple" />
+  <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=discord_old_blurple" />
 </a>
 
 <a href="https://github.com/KXX-Hub/Line_Gas_Notify">
-  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=discord_old_blurple" />
+  <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=discord_old_blurple" />
 </a>
 
 <a href="https://github.com/KXX-Hub/Auto_API_Check_Bot">
-  <img align="center" width = "400"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Auto_API_Check_Bot&theme=discord_old_blurple" />
+  <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Auto_API_Check_Bot&theme=discord_old_blurple" />
 </a>
+  </a>
+</div>
+
+### Recent Project 🔥
+
+
