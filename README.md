@@ -11,7 +11,7 @@
 
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
-
+  <h2 align="center">🔥About Me🔥<img src="./assets/borderseparator.gif"/></h2><br>
 -   👨‍💻 College student, Major in Medical Information and minor in Cybersecurity. <br><br><br>
 
 -   🌳 Currently learning Smart Contract and web development! <br><br><br>
@@ -45,7 +45,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2 align="center">🔥Projects🔥<img src="./assets/borderseparator.gif"/></h2><br>
 <a href="https://github.com/KXX-Hub/IT_ironman">
   <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=discord_old_blurple" />
 </a>
