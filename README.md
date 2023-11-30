@@ -1,6 +1,29 @@
+<h1 align="center">𝐊𝐗𝐗-𝐇𝐔𝐁<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e6e6fa&size=30&lines=Medical+Informatic+student;Cybersecurity+Engineer+Intern;BackEnd+Developer;Crypto+and+NFT's)](https://git.io/typing-svg)
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+
+-   👨‍💻 I'm Kai👋, a college student, a senior of Medical Information in the Taiwan. <br><br><br>
+
+-   🌳 I’m currently learning Cybersecurity and ! <br><br><br>
+
+-   🐾 I’m looking to network and make friends here! <br><br><br>
+
+-   🌊 2023 Goals: Learn AI and Machine Learning and Contribute to Open Source Projects. <br><br><br>
+
+-   ☕ Interest: Music, Crypto, and Coding. <br><br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=react">
-
 
 |<img algin = "left" width = "40" src ="https://user-images.githubusercontent.com/72089746/226511869-a14393d2-e4b2-4dc4-95d4-fb44ec3789d5.gif"> |0x_kxx|
 |:------:|:------:|
@@ -16,10 +39,10 @@
 </a>
 </p>
 
-<img algin ="center" src="https://user-images.githubusercontent.com/72089746/226623274-2f206dee-d47b-4711-8f67-671ee5c690b5.gif">
 
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Recent Project 🔥
 
