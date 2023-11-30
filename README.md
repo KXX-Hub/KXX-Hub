@@ -11,7 +11,9 @@
 
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
-  <h2 align="center">🔥About Me🔥<img src="./assets/borderseparator.gif"/></h2><br>
+
+<h2 align="center">🔥About Me🔥<img src="./assets/borderseparator.gif"/></h2><br>
+  
 -   👨‍💻 College student, Major in Medical Information and minor in Cybersecurity. <br><br><br>
 
 -   🌳 Currently learning Smart Contract and web development! <br><br><br>
