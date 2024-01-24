@@ -2,7 +2,7 @@
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e6e6fa&size=30&lines=Cybersecurity+Engineer+Intern;Medical+Information+student;BackEnd+Developer;Crypto+and+NFT's)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=e6e6fa&size=30&lines=Cybersecurity;Medical+Information;BackEnd+Developer;Crypto+and+NFT's)](https://git.io/typing-svg)
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
