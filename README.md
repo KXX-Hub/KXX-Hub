@@ -50,7 +50,7 @@
   <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=discord_old_blurple" />
 </a>
 
-<a href="https://github.com/KXX-Hub/Wallet_Tracker">
+<a href="https://github.com/HappyGroupHub/Ethereum-Wallet-Tracker">
   <img align="center" width = "49%"src="https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=discord_old_blurple" />
 </a>
 
