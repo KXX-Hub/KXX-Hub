@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://0xkxx.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,50:0f1118,100:1a1d29&height=140&section=header&text=Chih-Kai%20Hung&fontColor=b8bcc6&fontSize=30&fontAlignY=40&animation=fadeIn" width="100%"/></a>
+<a href="https://0xkxx.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,50:0f1118,100:1a1d29&height=170&section=header&text=Chih-Kai%20Hung&fontColor=b8bcc6&fontSize=30&fontAlignY=30&desc=welcome%20to%20my%20digital%20world%20%E2%86%92&descSize=13&descAlignY=50&animation=fadeIn" width="100%"/></a>
 
 <a href="https://0xkxx.com"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=4200&pause=2600&color=6E7681&center=true&vCenter=true&width=560&lines=Information+Management+%40+UIUC;Incoming+Software+Engineer+%40+Dell+Technologies;cybersecurity+%C2%B7+development+%C2%B7+info+consulting;lately+building+canopyesg.com" alt="typing intro"/></a>
 
