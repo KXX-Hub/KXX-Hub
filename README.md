@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,50:0f1118,100:1a1d29&height=220&section=header&text=Chih-Kai%20Hung&fontColor=b8bcc6&fontSize=44&fontAlignY=42&animation=fadeIn" width="100%"/>
+<a href="https://0xkxx.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,50:0f1118,100:1a1d29&height=140&section=header&text=Chih-Kai%20Hung&fontColor=b8bcc6&fontSize=30&fontAlignY=40&animation=fadeIn" width="100%"/></a>
 
 <a href="https://0xkxx.com"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=14&duration=4200&pause=2600&color=6E7681&center=true&vCenter=true&width=560&lines=Information+Management+%40+UIUC;Incoming+Software+Engineer+%40+Dell+Technologies;cybersecurity+%C2%B7+development+%C2%B7+info+consulting;lately+building+canopyesg.com" alt="typing intro"/></a>
 
@@ -75,6 +75,6 @@ M.S. Information Management, UIUC (Dec 2026) · B.S. Medical Informatics, Fu Jen
   <img alt="contribution snake" src="https://raw.githubusercontent.com/KXX-Hub/KXX-Hub/output/snake.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1d29,50:0f1118,100:05060a&height=100&section=footer" width="100%"/>
+<a href="https://0xkxx.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1d29,50:0f1118,100:05060a&height=70&section=footer" width="100%"/></a>
 
 </div>
