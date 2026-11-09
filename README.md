@@ -1,60 +1,41 @@
-<h1 align="center">𝐊𝐗𝐗-𝐇𝐔𝐁 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h1>
-<img src="./assets/borderseparator.gif" width="100%"/>
+```
+夕   Chih-Kai Hung · KXX
+```
 
-<div align="center">
-  
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="center" src="https://user-images.githubusercontent.com/72089746/226623274-2f206dee-d47b-4711-8f67-671ee5c690b5.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Information Management student at UIUC. Incoming Software Engineer at Dell Technologies.
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+I work in information consulting, cybersecurity and development. Lately I've been building [a green tech website](https://www.canopyesg.com/).
 
-<h2 align="center">🔥 About Me 🔥<img src="./assets/borderseparator.gif"/></h2><br>
+[`0xkxx.com`](https://0xkxx.com) · [`LinkedIn`](https://www.linkedin.com/in/chihkai-hung/) · [`Email`](mailto:0xkxxmail@gmail.com)
 
-- 🎓 Master’s student in **Information Management @ UIUC**  
-- 🛡️ Background in **Medical Informatics** with a focus on **Cybersecurity**  
-- 🔗 Passionate about **Blockchain Security**, **Smart Contracts**, and **Digital Asset Management**  
-- 🎨 Exploring **UI/UX Design** to make systems more user-friendly & intuitive  
-- ☕ Interests: Music, Crypto, and building meaningful projects  
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Experience
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KXX-Hub&show_icons=true&theme=react">
+**Dell Technologies** · Software Intern · 2026<br>
+Cut failure diagnosis from 3 minutes to 30 seconds. A tool that watches failure videos on Jira tickets and writes the diagnostic report.<br>
+`3 min → 30 s diagnosis` `10x lower AI cost` `used daily`
 
-|<img align="left" width="40" src="https://user-images.githubusercontent.com/72089746/226511869-a14393d2-e4b2-4dc4-95d4-fb44ec3789d5.gif"> | 0x_kxx |
-|:------:|:------:|
-|<img align="left" width="30" src="https://user-images.githubusercontent.com/72089746/226626493-b2eaf22a-12d9-44f3-a839-38320ea7cc2d.png">| 0xkxx.eth |
-|<img align="left" width="30" src="https://user-images.githubusercontent.com/72089746/226625260-ae075d55-c4f1-40d7-8923-0c25698d4734.gif">| [Instagram](https://www.instagram.com/0x_kxx/) |
+**Business Intelligence Group, UIUC** · 2026<br>
+Helped a Fortune 500 company choose its AI security vendors: scoring framework, assessment, ranked recommendations.<br>
+`11 vendors` `6 criteria` `3 engagements`
 
-<p align="left">
-<a href="https://github.com/KXX-Hub" alt="Total Stars">
-  <img src="https://img.shields.io/github/stars/KXX-Hub?style=social" target="blank" />
-</a>
-<a href="https://twitter.com/hongzhikai1" alt="Twitter">
-  <img src="https://img.shields.io/twitter/follow/hongzhikai1?label=Follow me &style=social" />
-</a>
-</p>
+**Galaxy Software Service** · Cybersecurity Intern · 2023<br>
+Tested the security of 40+ enterprise clients, added pre-deploy security scans, automated compliance reports.<br>
+`40+ clients` `10,000+ records automated` `60% less manual work`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Projects
 
-<div align="center">
-  <h2 align="center">🔥 Projects 🔥<img src="./assets/borderseparator.gif"/></h2><br>
+| | |
+|---|---|
+| **TWSentinel** · 2026 | Telegram bot that tracks Taiwan tech stocks, then scores every signal it sends against what actually happened next. |
+| **[Canopy ESG](https://www.canopyesg.com/)** · 2026 | Species lookup, carbon estimates from NASA data, and a daily sustainability news digest sorted by AI. |
+| **[RL Dynamic Pricing](https://github.com/KXX-Hub/RL-dynamic-pricing-simulator)** · 2026 | A reinforcement-learning pricing agent trained on 26,342 real retail transactions. Beat the standard rules by 8–79% profit across 5 market shocks. |
+| **[Ethereum Wallet Tracker](https://github.com/HappyGroupHub/Ethereum-Wallet-Tracker)** · 2023–24 | Instant Ethereum wallet alerts delivered in LINE, 1,000+ transactions a day. Published with Springer. |
 
-<a href="https://github.com/KXX-Hub/IT_ironman">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=IT_ironman&theme=discord_old_blurple" />
-</a>
+### Elsewhere
 
-<a href="https://github.com/HappyGroupHub/Ethereum-Wallet-Tracker">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HappyGroupHub&repo=Ethereum-Wallet-Tracker&theme=discord_old_blurple" />
-</a>
-
-<a href="https://github.com/KXX-Hub/Line_Gas_Notify">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Line_Gas_Notify&theme=discord_old_blurple" />
-</a>
-
-<a href="https://github.com/KXX-Hub/Auto_API_Check_Bot">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KXX-Hub&repo=Auto_API_Check_Bot&theme=discord_old_blurple" />
-</a>
-
-</div>
+- Master of Information Management, UIUC, Dec 2026
+- B.S. Medical Informatics, Fu Jen, 2024
+- Certified Ethical Hacker, EC-Council
+- Two papers, Springer 2024: [one](https://link.springer.com/chapter/10.1007/978-3-031-64957-8_8) · [two](https://link.springer.com/chapter/10.1007/978-3-031-64957-8_11)
